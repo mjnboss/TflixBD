@@ -7,5 +7,107 @@ https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-id="ATNNAT" tvg-group="Sports" tvg-logo="",ATNNAT
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SomoyTV" tvg-group="News" tvg-logo="",SomoyTV
+#EXTINF:-1 tvg-id="SomoyTV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",SomoyTV
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+
+#EXTINF:-1 tvg-id="SaTV" tvg-group="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvzjw07RlgxTH5kehx-s-WirFAIju26uOPhhzcX53dXQ&s",SaTV
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Ekhon TV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon TV
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BijoyTV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",BijoyTV
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Jamuna TV" tvg-group="News" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",Jamuna TV
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Chanel 24" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Chanel 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+#EXTINF:-1 tvg-id="71TV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",71 TV
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-1 tvg-id="RTV" tvg-group="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQlHfriBaKYLe8E0bGIN2N2z2k8HxBlvQsIJW2l7Kpg&s",RTV
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Independent TV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+
+#EXTINF:-1 tvg-id="Mohona tv" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mohona_tv_Logo.svg",Mohona tv
+https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="deepto tv" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",deepto tv
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ATN bangla tv" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN bangla
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ATN bangla news" tvg-group="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf1nFiqDOJyilB2FuhieUMM3aDHZ3ZVcjUArE37jqjWA&s",ATN bangla news
+https://ythls.armelin.one/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
+
+#EXTINF:-1 tvg-id="Bangla movie" tvg-group="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2-2NcTsqeFnKeameZ-9zIn3qEizH6E2riSY_yVS2Og&s",Bangla movie
+http://alvetv.com/mbtv/8080/index.m3u8
+
+#EXTINF:-1 tvg-id="Bangla vission" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Bangla vission
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="boishakhi TV" tvg-group="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1160px-Boishakhi_TV_logo.svg.png",boishakhi TV
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Ekushe TV" tvg-group="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushe TV
+https://ekusheyserver.com/hls-live/livepkgr/
+
+#EXTINF:-1 tvg-id="My TV" tvg-group="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
+https://myflixbd.com/0.m3u8
+
+#EXTINF:-1 tvg-id="Sangeet Bangla" tvg-group="music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHR902CyuXGCAvACCBGemOtYeAgd-VX7K2LhKa7aq85g&s",Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
+#EXTINF:-1 tvg-id="News 24" tvg-group="News" tvg-logo="https://e7.pngegg.com/pngimages/678/286/png-clipart-news-24-24-7-service-television-channel-news-broadcasting-others-television-blue.png",News 24
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Green TV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",Green TV
+https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Jamuna TV" tvg-group="News" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",Jamuna TV
+https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="9x Talash" tvg-group="music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/9X_logo.png",9x Talash
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
+#EXTINF:-1 tvg-id="9xm" tvg-group="music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434",9xm
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="pogo" tvg-group="cartoon" tvg-logo="https://i.pinimg.com/originals/12/18/e7/1218e7193184f7405a5cf23069df3415.jpg",pogo
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+
+#EXTINF:-1 tvg-id="kids discovery" tvg-group="cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",kids discovery
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+
+#EXTINF:-1 tvg-id="Zoo Moo" tvg-group="music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2438px-ZooMoo_logo.svg.png",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Masti" tvg-group="music" tvg-logo="https://www.exchange4media.com/news-photo/1512994528_uuj6re_big_(4).gif",Masti
+http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNTV" tvg-group="music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/MNTV-Logo.jpg",MNTV
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-id="show box" tvg-group="cartoon" tvg-logo="https://www.showboxchannel.com/wp-content/uploads/2022/04/Showbox_logo-5.png",show box
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 tvg-id="Joo music" tvg-group="music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest/scale-to-width-down/270?cb=20200108100316",Joo music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Movie Club" tvg-group="Movie" tvg-logo="https://e7.pngegg.com/pngimages/434/503/png-clipart-black-and-white-movie-club-clapboard-art-film-logo-cinema-movie-logo-s-film-action-film.png",Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zoom" tvg-group="Music" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lZEnCMQZz6FfEgDysuhVObO6O972OlqzBOaGwninMVpWk=s900-c-k-c0x00ffffff-no-rj",Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+
+#EXTINF:-1 tvg-id="CN Cartoon" tvg-group="Cartoon" tvg-logo="https://logowik.com/content/uploads/images/cartoon-network5254.jpg",CN Cartoon
+https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
